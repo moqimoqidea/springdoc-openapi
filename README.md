@@ -111,7 +111,7 @@ springdoc.swagger-ui.path=/swagger-ui.html
 
 ## Spring-boot with OpenAPI Demo applications.
 
-### [Source Code for Demo Applications](https://github.com/springdoc/springdoc-openapi-v1-demos.git).
+### [Source Code for Demo Applications](https://github.com/springdoc/springdoc-openapi-demos.git).
 
 ### [Demo Spring Boot 2 Web MVC with OpenAPI 3](http://158.101.191.70:8081/).
 
@@ -215,9 +215,9 @@ Snapshots:
 ## Contributors
 
 springdoc-openapi is relevant and updated regularly due to the valuable contributions from
-its [contributors](https://github.com/springdoc/springdoc-openapi-v1/graphs/contributors).
+its [contributors](https://github.com/springdoc/springdoc-openapi/graphs/contributors).
 
-<a href="https://github.com/springdoc/springdoc-openapi-v1/graphs/contributors">
+<a href="https://github.com/springdoc/springdoc-openapi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=springdoc/springdoc-openapi" width="50%"/>
 </a>
 

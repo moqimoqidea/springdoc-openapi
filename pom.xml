@@ -32,9 +32,9 @@
 	</developers>
 
 	<scm>
-		<url>git@github.com:springdoc/springdoc-openapi-v1.git</url>
-		<connection>scm:git:git@github.com:springdoc/springdoc-openapi-v1.git</connection>
-		<developerConnection>scm:git:git@github.com:springdoc/springdoc-openapi-v1.git
+		<url>git@github.com:springdoc/springdoc-openapi.git</url>
+		<connection>scm:git:git@github.com:springdoc/springdoc-openapi.git</connection>
+		<developerConnection>scm:git:git@github.com:springdoc/springdoc-openapi.git
 		</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
